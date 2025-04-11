@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","169","A.N_1. Add Note to Case","","Wed Feb 12 15:24:32 UTC 2025","failed","Wed Feb 12 15:24:33 UTC 2025","","Add Notes","",""
+"","106","A.N_3. Add Note to Person","","Wed Feb 12 15:24:33 UTC 2025","failed","Wed Feb 12 15:24:33 UTC 2025","","Add Notes","",""
+"","147","A.N_2. Add Note to Item","","Wed Feb 12 15:24:33 UTC 2025","failed","Wed Feb 12 15:24:33 UTC 2025","","Add Notes","",""
+"","144","A.N_4. Add Note to Task","","Wed Feb 12 15:24:33 UTC 2025","failed","Wed Feb 12 15:24:33 UTC 2025","","Add Notes","",""
